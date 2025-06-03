@@ -26,3 +26,4 @@ A simple and beautiful weather application built using **React** and **Material 
 - Material UI (MUI)
 - OpenWeatherMap API
 - CSS
+- JavaScript
